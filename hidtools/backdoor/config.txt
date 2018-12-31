@@ -5,7 +5,7 @@ HID_KEYBOARD_DEV=/dev/hidg0
 HID_RAW_DEV=/dev/hidg1
 
 # supported languages: be, br, ca, ch, de, dk, es, fi, fr, gb, hr, it, no, pt, ru, si, sv, t, us
-KEYBOARD_LANG=us
+KEYBOARD_LANG=de
 
 PATH_DUCKYSCRIPT=../../DuckyScripts
 PATH_MOUSESCRIPT=../../MouseScripts
